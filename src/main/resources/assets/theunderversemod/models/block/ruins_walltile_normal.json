@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "theunderversemod:block/ruins_walltile_normal"
+  }
+}
